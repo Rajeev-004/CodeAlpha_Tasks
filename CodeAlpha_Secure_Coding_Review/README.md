@@ -58,5 +58,8 @@ Step 6:-
             Username: admin  
             Password: adminpass
 
+OUTPUT:-
 
-
+![Image](https://github.com/user-attachments/assets/84d1f49b-b6ed-492f-8b58-4c03f5ac8302)
+![Image](https://github.com/user-attachments/assets/bd021438-789d-43af-9674-33faa1bfb750)
+![Image](https://github.com/user-attachments/assets/06b0af93-ebfa-402f-bf52-00a6b5e8f5b1)
