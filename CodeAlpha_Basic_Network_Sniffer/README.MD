@@ -36,3 +36,7 @@ Step 5:-
                 Source and Destination MAC Addresses
                 IP Addresses and Protocol Type 
                 Transport Layer Details (TCP, UDP, ICMP) 
+
+OUTPUT:-
+
+![Image](https://github.com/user-attachments/assets/d0ea47c1-a46b-42e5-9855-63b9978b4a6f)
